@@ -18,7 +18,7 @@ Maka hasilnya dengan tiga input bilangan yang berbeda :
 <img width="440" alt="ss modul praktikum 2 mencari angka terbesar dari 3 input(3)" src="https://user-images.githubusercontent.com/116411792/202914700-be090e22-cce8-4ffb-9a9f-8ffce21e647d.png">
 
 
-
+## TERIMA KASIH
 
 
 
